@@ -1,0 +1,510 @@
+{
+  "source": "https://powertips.es",
+  "imported_at": "2026-10-05T05:38:59Z",
+  "totals": {
+    "posts": 283,
+    "pages": 18,
+    "categories": 45,
+    "tags": 231,
+    "media": 345
+  },
+  "sitemaps": {
+    "post": {
+      "count": 283,
+      "missing_from_api": [],
+      "not_in_sitemap": []
+    },
+    "page": {
+      "count": 19,
+      "missing_from_api": [],
+      "not_in_sitemap": []
+    }
+  },
+  "excluded_sitemaps": [
+    "https://powertips.es/wp-sitemap-posts-forum-1.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-1.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-2.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-3.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-4.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-5.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-6.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-7.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-8.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-9.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-10.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-11.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-12.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-13.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-14.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-15.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-16.xml",
+    "https://powertips.es/wp-sitemap-posts-topic-17.xml",
+    "https://powertips.es/wp-sitemap-posts-reply-1.xml",
+    "https://powertips.es/wp-sitemap-posts-elementor-hf-1.xml",
+    "https://powertips.es/wp-sitemap-taxonomies-category-1.xml",
+    "https://powertips.es/wp-sitemap-taxonomies-post_tag-1.xml",
+    "https://powertips.es/wp-sitemap-taxonomies-post_format-1.xml",
+    "https://powertips.es/wp-sitemap-taxonomies-topic-tag-1.xml",
+    "https://powertips.es/wp-sitemap-taxonomies-topic-tag-2.xml",
+    "https://powertips.es/wp-sitemap-taxonomies-topic-tag-3.xml",
+    "https://powertips.es/wp-sitemap-taxonomies-topic-tag-4.xml",
+    "https://powertips.es/wp-sitemap-taxonomies-topic-tag-5.xml",
+    "https://powertips.es/wp-sitemap-users-1.xml"
+  ],
+  "media_failures": [],
+  "protected_records": [],
+  "asset_policy": "Referenced upload src/href/poster and featured images; unused attachments and srcset variants are inventoried, not downloaded.",
+  "media_inventory": {
+    "api_total": 345,
+    "returned": 339,
+    "unavailable": 6,
+    "explanation": "Public REST pagination returns fewer attachments than X-WP-Total. All advertised pages were fetched; omitted IDs are not exposed by the public response."
+  },
+  "assets": {
+    "referenced": 259,
+    "downloaded": 259,
+    "bytes": 64135095
+  },
+  "unreferenced_media_records": [
+    {
+      "id": 5,
+      "url": "https://powertips.es/wp-content/uploads/2020/06/logo-@2x-free-img.png"
+    },
+    {
+      "id": 52,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/courses-01-free-img.jpg"
+    },
+    {
+      "id": 53,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/courses-02-free-img.jpg"
+    },
+    {
+      "id": 56,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/courses-05-free-img.jpg"
+    },
+    {
+      "id": 57,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/courses-06-free-img.jpg"
+    },
+    {
+      "id": 67,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/testimonials-free-img.jpg"
+    },
+    {
+      "id": 68,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/favicon-free-img.png"
+    },
+    {
+      "id": 70,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/logo-@2x-free-img.png"
+    },
+    {
+      "id": 78,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/logo-regular-free-img.png"
+    },
+    {
+      "id": 81,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/cropped-favicon-free-img.png"
+    },
+    {
+      "id": 98,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/hero-free-img.jpg"
+    },
+    {
+      "id": 99,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/hero-small-free-img.jpg"
+    },
+    {
+      "id": 101,
+      "url": "https://powertips.es/wp-content/uploads/2018/02/demo_screenshot-free-img.jpg"
+    },
+    {
+      "id": 180,
+      "url": "https://powertips.es/wp-content/uploads/2018/12/coach1-free-img.jpg"
+    },
+    {
+      "id": 372,
+      "url": "https://powertips.es/wp-content/uploads/2019/11/office-desk.jpg"
+    },
+    {
+      "id": 373,
+      "url": "https://powertips.es/wp-content/uploads/2019/11/office-table.jpg"
+    },
+    {
+      "id": 374,
+      "url": "https://powertips.es/wp-content/uploads/2019/11/discussion.jpg"
+    },
+    {
+      "id": 375,
+      "url": "https://powertips.es/wp-content/uploads/2019/11/keyboard.jpg"
+    },
+    {
+      "id": 376,
+      "url": "https://powertips.es/wp-content/uploads/2019/11/laptop-dairy.jpg"
+    },
+    {
+      "id": 377,
+      "url": "https://powertips.es/wp-content/uploads/2019/11/laptop-glasses.jpg"
+    },
+    {
+      "id": 518,
+      "url": "https://powertips.es/wp-content/uploads/2020/06/logo-regular-free-img.png"
+    },
+    {
+      "id": 519,
+      "url": "https://powertips.es/wp-content/uploads/2020/06/hero-small-free-img.jpg"
+    },
+    {
+      "id": 524,
+      "url": "https://powertips.es/wp-content/uploads/2020/06/hero-free-img.jpg"
+    },
+    {
+      "id": 525,
+      "url": "https://powertips.es/wp-content/uploads/2020/06/testimonials-free-img.jpg"
+    },
+    {
+      "id": 558,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-PowerTipsfaldon.png"
+    },
+    {
+      "id": 560,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/Logo_PT.png"
+    },
+    {
+      "id": 561,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-Logo_PT.png"
+    },
+    {
+      "id": 567,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/bannerpowertips.png"
+    },
+    {
+      "id": 569,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-Logo_PT-1.png"
+    },
+    {
+      "id": 571,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/PowerTips_2.png"
+    },
+    {
+      "id": 573,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/logopowertips.png"
+    },
+    {
+      "id": 574,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-logopowertips.png"
+    },
+    {
+      "id": 576,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/bannerpowertips-1.png"
+    },
+    {
+      "id": 582,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/PowerTips.png"
+    },
+    {
+      "id": 584,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/logoptips.png"
+    },
+    {
+      "id": 585,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-logoptips.png"
+    },
+    {
+      "id": 586,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/logoptips2.png"
+    },
+    {
+      "id": 587,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-logoptips2.png"
+    },
+    {
+      "id": 589,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-logoptips-1.png"
+    },
+    {
+      "id": 590,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/bannerpowertips-2.png"
+    },
+    {
+      "id": 595,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-Logo_PT-2.png"
+    },
+    {
+      "id": 596,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips.png"
+    },
+    {
+      "id": 599,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-logoptips2-1.png"
+    },
+    {
+      "id": 602,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips-2-1.png"
+    },
+    {
+      "id": 603,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-PowerTipsfaldon-1.png"
+    },
+    {
+      "id": 604,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/bannerpowertips2.png"
+    },
+    {
+      "id": 605,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips2.png"
+    },
+    {
+      "id": 606,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/bannerpowertips3.png"
+    },
+    {
+      "id": 607,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips3.png"
+    },
+    {
+      "id": 608,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips-2-2.png"
+    },
+    {
+      "id": 614,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips-1.png"
+    },
+    {
+      "id": 878,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/bannerpowertips4.png"
+    },
+    {
+      "id": 879,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips4.png"
+    },
+    {
+      "id": 881,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/bannerpowertips5.png"
+    },
+    {
+      "id": 882,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips5.png"
+    },
+    {
+      "id": 883,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/bannerpowertips8.png"
+    },
+    {
+      "id": 884,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips8.png"
+    },
+    {
+      "id": 885,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/bannerpowertips7.png"
+    },
+    {
+      "id": 887,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips7.png"
+    },
+    {
+      "id": 888,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/bannerpowertips6.png"
+    },
+    {
+      "id": 889,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips6.png"
+    },
+    {
+      "id": 895,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/banner1.png"
+    },
+    {
+      "id": 896,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-banner1.png"
+    },
+    {
+      "id": 898,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/banner2.png"
+    },
+    {
+      "id": 899,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-banner2.png"
+    },
+    {
+      "id": 900,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/bannerpowertips9.png"
+    },
+    {
+      "id": 901,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-bannerpowertips9.png"
+    },
+    {
+      "id": 903,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/thistle-globe-thistle-plant-5428211.jpg"
+    },
+    {
+      "id": 904,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-thistle-globe-thistle-plant-5428211.jpg"
+    },
+    {
+      "id": 907,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/aircraft-double-decker-propeller-plane-1813731.jpg"
+    },
+    {
+      "id": 908,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-aircraft-double-decker-propeller-plane-1813731.jpg"
+    },
+    {
+      "id": 909,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/skyscraper-facade-modern-1030774.jpg"
+    },
+    {
+      "id": 910,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/cropped-skyscraper-facade-modern-1030774.jpg"
+    },
+    {
+      "id": 916,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/74338571_10157760855298992_8775103520026736141_n.jpg"
+    },
+    {
+      "id": 945,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/PowerTipsCadiz.png"
+    },
+    {
+      "id": 946,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/PowerTipsSevilla.png"
+    },
+    {
+      "id": 1004,
+      "url": "https://powertips.es/wp-content/uploads/2020/07/logoptips2-1.png"
+    },
+    {
+      "id": 1034,
+      "url": "https://powertips.es/wp-content/uploads/2020/08/miniaturatest.png"
+    },
+    {
+      "id": 1071,
+      "url": "https://powertips.es/wp-content/uploads/2020/08/0-e1597144295950.jpeg"
+    },
+    {
+      "id": 1262,
+      "url": "https://powertips.es/wp-content/uploads/2020/11/201103_Omni1.png"
+    },
+    {
+      "id": 1264,
+      "url": "https://powertips.es/wp-content/uploads/2020/11/201103_Omni3.png"
+    },
+    {
+      "id": 1267,
+      "url": "https://powertips.es/wp-content/uploads/2020/11/BnzXRro_400x400.jpg"
+    },
+    {
+      "id": 1286,
+      "url": "https://powertips.es/wp-content/uploads/2020/11/201106_Miniatura_Teams_estados_2-e1604647446258.png"
+    },
+    {
+      "id": 1288,
+      "url": "https://powertips.es/wp-content/uploads/2020/11/powertip_comm-v1-e1604648156188.png"
+    },
+    {
+      "id": 1289,
+      "url": "https://powertips.es/wp-content/uploads/2020/11/cropped-powertip_comm-v1-e1604648156188.png"
+    },
+    {
+      "id": 1312,
+      "url": "https://powertips.es/wp-content/uploads/2020/12/Captura-de-pantalla-2020-12-02-a-las-9.46.13.png"
+    },
+    {
+      "id": 1314,
+      "url": "https://powertips.es/wp-content/uploads/2020/12/Captura-de-pantalla-2020-12-02-a-las-9.46.13-1.png"
+    },
+    {
+      "id": 1322,
+      "url": "https://powertips.es/wp-content/uploads/2020/12/Captura-de-pantalla-2020-12-02-a-las-10.50.42.png"
+    },
+    {
+      "id": 1325,
+      "url": "https://powertips.es/wp-content/uploads/2020/12/Captura-de-pantalla-2020-12-02-a-las-11.17.10.png"
+    },
+    {
+      "id": 1326,
+      "url": "https://powertips.es/wp-content/uploads/2020/12/Captura-de-pantalla-2020-12-02-a-las-11.18.17.png"
+    },
+    {
+      "id": 1328,
+      "url": "https://powertips.es/wp-content/uploads/2020/12/Captura-de-pantalla-2020-12-02-a-las-11.27.25.png"
+    },
+    {
+      "id": 1331,
+      "url": "https://powertips.es/wp-content/uploads/2020/12/Imagen-1.png"
+    },
+    {
+      "id": 1332,
+      "url": "https://powertips.es/wp-content/uploads/2020/12/Captura-de-pantalla-2020-12-02-a-las-12.16.22.png"
+    },
+    {
+      "id": 1333,
+      "url": "https://powertips.es/wp-content/uploads/2020/12/Captura-de-pantalla-2020-12-02-a-las-12.17.30.png"
+    },
+    {
+      "id": 1334,
+      "url": "https://powertips.es/wp-content/uploads/2020/12/Captura-de-pantalla-2020-12-02-a-las-12.22.57.png"
+    },
+    {
+      "id": 1387,
+      "url": "https://powertips.es/wp-content/uploads/2021/01/Captura-de-pantalla-2021-01-14-a-las-12.47.52.png"
+    },
+    {
+      "id": 1389,
+      "url": "https://powertips.es/wp-content/uploads/2021/01/Captura-de-pantalla-2021-01-14-a-las-13.10.12.png"
+    },
+    {
+      "id": 1408,
+      "url": "https://powertips.es/wp-content/uploads/2021/02/Documento.docx"
+    },
+    {
+      "id": 1409,
+      "url": "https://powertips.es/wp-content/uploads/2021/02/Folleto-de-ventas-en-PDF-para-el-Landon-Hotel-West-End-London_LIL_87344.pdf"
+    },
+    {
+      "id": 1435,
+      "url": "https://powertips.es/wp-content/uploads/2021/03/210219_Miniatura_M365_Exchange_Configurar_buzones_compartidos.png"
+    },
+    {
+      "id": 1563,
+      "url": "https://powertips.es/wp-content/uploads/2021/08/Banner_Logos_PowerTips.png"
+    },
+    {
+      "id": 1564,
+      "url": "https://powertips.es/wp-content/uploads/2021/08/cropped-Banner_Logos_PowerTips.png"
+    },
+    {
+      "id": 1566,
+      "url": "https://powertips.es/wp-content/uploads/2021/08/logo_powertips_comm-v1_blanco.png"
+    },
+    {
+      "id": 1567,
+      "url": "https://powertips.es/wp-content/uploads/2021/08/cropped-logo_powertips_comm-v1_blanco.png"
+    },
+    {
+      "id": 1568,
+      "url": "https://powertips.es/wp-content/uploads/2020/11/cropped-powertip_comm-v1-e1604648156188-1.png"
+    },
+    {
+      "id": 1570,
+      "url": "https://powertips.es/wp-content/uploads/2021/08/Logo_PowerTips_Community.png"
+    },
+    {
+      "id": 1720,
+      "url": "https://powertips.es/wp-content/uploads/2022/08/220804_Miniatura_Colaboraciones_JArmesto_Vistualizar_Vistas_en_D365_con_PBI2.png"
+    },
+    {
+      "id": 1721,
+      "url": "https://powertips.es/wp-content/uploads/2022/08/220804_Miniatura_Colaboraciones_JArmesto_Vistualizar_Vistas_en_D365_con_PBI3.png"
+    },
+    {
+      "id": 34061,
+      "url": "https://powertips.es/wp-content/uploads/2023/11/231029_Miniatura_Busqueda_nuevo_Cliente_Teams2.png"
+    },
+    {
+      "id": 34070,
+      "url": "https://powertips.es/wp-content/uploads/2023/12/231129_Miniatura_Nuevas_Plantillas_Reunion_Teams.png"
+    }
+  ]
+}

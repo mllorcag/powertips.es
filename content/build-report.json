@@ -1,0 +1,38 @@
+{
+  "posts": 283,
+  "pages": 18,
+  "dynamic_pages": [
+    "https://powertips.es/foros/",
+    "https://powertips.es/registro-2-2/",
+    "https://powertips.es/recuperar-contrasena/",
+    "https://powertips.es/questions/",
+    "https://powertips.es/questions/ask/",
+    "https://powertips.es/questions/profile/",
+    "https://powertips.es/questions/categories/",
+    "https://powertips.es/questions/tags/",
+    "https://powertips.es/questions/activities/"
+  ],
+  "removed_forms": [
+    {
+      "url": "https://powertips.es/contact/",
+      "count": 1
+    },
+    {
+      "url": "https://powertips.es/meetup/",
+      "count": 1
+    },
+    {
+      "url": "https://powertips.es/colaborar/",
+      "count": 1
+    }
+  ],
+  "unsupported_embeds": [],
+  "unresolved_shortcodes": [],
+  "missing_assets": [],
+  "rewritten_community_links": [],
+  "unmapped_internal_links": [],
+  "attachment_routes": [
+    "/2013/12/31/happy-new-year-hope-you-have-a-great-2014/attachment/691/"
+  ],
+  "generated_routes": 697
+}
