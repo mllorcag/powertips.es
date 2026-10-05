@@ -1,0 +1,1850 @@
+[
+  {
+    "id": 38,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/offtopic/",
+    "name": "offtopic",
+    "slug": "offtopic"
+  },
+  {
+    "id": 39,
+    "count": 48,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-dynamics-nav/",
+    "name": "Microsoft Dynamics NAV",
+    "slug": "microsoft-dynamics-nav"
+  },
+  {
+    "id": 40,
+    "count": 34,
+    "description": "",
+    "link": "https://powertips.es/tag/nav/",
+    "name": "NAV",
+    "slug": "nav"
+  },
+  {
+    "id": 41,
+    "count": 24,
+    "description": "",
+    "link": "https://powertips.es/tag/cumulatives-updates/",
+    "name": "Cumulatives Updates",
+    "slug": "cumulatives-updates"
+  },
+  {
+    "id": 42,
+    "count": 41,
+    "description": "",
+    "link": "https://powertips.es/tag/hotfix/",
+    "name": "Hotfix",
+    "slug": "hotfix"
+  },
+  {
+    "id": 43,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/sii/",
+    "name": "SII",
+    "slug": "sii"
+  },
+  {
+    "id": 44,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/nav-2017/",
+    "name": "NAV 2017",
+    "slug": "nav-2017"
+  },
+  {
+    "id": 45,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/cortana-intelligence/",
+    "name": "Cortana Intelligence",
+    "slug": "cortana-intelligence"
+  },
+  {
+    "id": 46,
+    "count": 68,
+    "description": "",
+    "link": "https://powertips.es/tag/novedades/",
+    "name": "Novedades",
+    "slug": "novedades"
+  },
+  {
+    "id": 47,
+    "count": 24,
+    "description": "",
+    "link": "https://powertips.es/tag/dynamics-365/",
+    "name": "Dynamics 365",
+    "slug": "dynamics-365"
+  },
+  {
+    "id": 48,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/appsource/",
+    "name": "AppSource",
+    "slug": "appsource"
+  },
+  {
+    "id": 49,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/fiscalidad/",
+    "name": "Fiscalidad",
+    "slug": "fiscalidad"
+  },
+  {
+    "id": 50,
+    "count": 9,
+    "description": "",
+    "link": "https://powertips.es/tag/nav-2016/",
+    "name": "NAV 2016",
+    "slug": "nav-2016"
+  },
+  {
+    "id": 51,
+    "count": 12,
+    "description": "",
+    "link": "https://powertips.es/tag/nav-2015/",
+    "name": "NAV 2015",
+    "slug": "nav-2015"
+  },
+  {
+    "id": 52,
+    "count": 22,
+    "description": "",
+    "link": "https://powertips.es/tag/nav-2013/",
+    "name": "NAV 2013",
+    "slug": "nav-2013"
+  },
+  {
+    "id": 53,
+    "count": 10,
+    "description": "",
+    "link": "https://powertips.es/tag/nav-2013-r2/",
+    "name": "NAV 2013 R2",
+    "slug": "nav-2013-r2"
+  },
+  {
+    "id": 54,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/cumulative-update/",
+    "name": "cumulative update",
+    "slug": "cumulative-update"
+  },
+  {
+    "id": 55,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/project-madeira/",
+    "name": "Project Madeira",
+    "slug": "project-madeira"
+  },
+  {
+    "id": 56,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/madeira/",
+    "name": "Madeira",
+    "slug": "madeira"
+  },
+  {
+    "id": 57,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/multitenant/",
+    "name": "Multitenant",
+    "slug": "multitenant"
+  },
+  {
+    "id": 58,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/extensiones/",
+    "name": "Extensiones",
+    "slug": "extensiones"
+  },
+  {
+    "id": 59,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/navug/",
+    "name": "NAVUG",
+    "slug": "navug"
+  },
+  {
+    "id": 60,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/crm/",
+    "name": "CRM",
+    "slug": "crm"
+  },
+  {
+    "id": 61,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/dynamics-crm/",
+    "name": "Dynamics CRM",
+    "slug": "dynamics-crm"
+  },
+  {
+    "id": 62,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/powerbi/",
+    "name": "PowerBI",
+    "slug": "powerbi"
+  },
+  {
+    "id": 63,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/speaker/",
+    "name": "Speaker",
+    "slug": "speaker"
+  },
+  {
+    "id": 64,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/webclient/",
+    "name": "WebClient",
+    "slug": "webclient"
+  },
+  {
+    "id": 65,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/corfu/",
+    "name": "Corfú",
+    "slug": "corfu"
+  },
+  {
+    "id": 66,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/anuncio/",
+    "name": "Anuncio",
+    "slug": "anuncio"
+  },
+  {
+    "id": 67,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/vat/",
+    "name": "VAT",
+    "slug": "vat"
+  },
+  {
+    "id": 68,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-dynamics-nav-nav2015-hotfix-vat/",
+    "name": "Microsoft Dynamics NAV NAV2015 Hotfix VAT",
+    "slug": "microsoft-dynamics-nav-nav2015-hotfix-vat"
+  },
+  {
+    "id": 69,
+    "count": 28,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-dynamics/",
+    "name": "Microsoft Dynamics",
+    "slug": "microsoft-dynamics"
+  },
+  {
+    "id": 70,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/licensing/",
+    "name": "Licensing",
+    "slug": "licensing"
+  },
+  {
+    "id": 71,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/directions-emea/",
+    "name": "Directions EMEA",
+    "slug": "directions-emea"
+  },
+  {
+    "id": 72,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/tablet/",
+    "name": "Tablet",
+    "slug": "tablet"
+  },
+  {
+    "id": 73,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/commerce-gateway/",
+    "name": "Commerce Gateway",
+    "slug": "commerce-gateway"
+  },
+  {
+    "id": 74,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/taxes/",
+    "name": "Taxes",
+    "slug": "taxes"
+  },
+  {
+    "id": 75,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/impuestos/",
+    "name": "Impuestos",
+    "slug": "impuestos"
+  },
+  {
+    "id": 76,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/updates/",
+    "name": "Updates",
+    "slug": "updates"
+  },
+  {
+    "id": 77,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/compatibility/",
+    "name": "Compatibility",
+    "slug": "compatibility"
+  },
+  {
+    "id": 78,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/windows-server-2012-r2/",
+    "name": "Windows Server 2012 R2",
+    "slug": "windows-server-2012-r2"
+  },
+  {
+    "id": 79,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-dynamics-nav-2013/",
+    "name": "Microsoft Dynamics NAV 2013",
+    "slug": "microsoft-dynamics-nav-2013"
+  },
+  {
+    "id": 80,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/video/",
+    "name": "Video",
+    "slug": "video"
+  },
+  {
+    "id": 81,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/almacenes/",
+    "name": "Almacenes",
+    "slug": "almacenes"
+  },
+  {
+    "id": 83,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/happynewyear/",
+    "name": "HappyNewYear",
+    "slug": "happynewyear"
+  },
+  {
+    "id": 85,
+    "count": 5,
+    "description": "",
+    "link": "https://powertips.es/tag/nav-2009/",
+    "name": "NAV 2009",
+    "slug": "nav-2009"
+  },
+  {
+    "id": 86,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/sepa/",
+    "name": "SEPA",
+    "slug": "sepa"
+  },
+  {
+    "id": 87,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/programming/",
+    "name": "Programming",
+    "slug": "programming"
+  },
+  {
+    "id": 88,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/book/",
+    "name": "Book",
+    "slug": "book"
+  },
+  {
+    "id": 89,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/review/",
+    "name": "Review",
+    "slug": "review"
+  },
+  {
+    "id": 90,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/promociones/",
+    "name": "Promociones",
+    "slug": "promociones"
+  },
+  {
+    "id": 91,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/solinteg/",
+    "name": "Solinteg",
+    "slug": "solinteg"
+  },
+  {
+    "id": 92,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/microaoft-dynamics-nav/",
+    "name": "Microaoft Dynamics NAV",
+    "slug": "microaoft-dynamics-nav"
+  },
+  {
+    "id": 93,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-dynamics-community/",
+    "name": "Microsoft Dynamics Community",
+    "slug": "microsoft-dynamics-community"
+  },
+  {
+    "id": 94,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/erp/",
+    "name": "ERP",
+    "slug": "erp"
+  },
+  {
+    "id": 95,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/cloud/",
+    "name": "Cloud",
+    "slug": "cloud"
+  },
+  {
+    "id": 96,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/windows-azure/",
+    "name": "Windows Azure",
+    "slug": "windows-azure"
+  },
+  {
+    "id": 97,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/quonext/",
+    "name": "Quonext",
+    "slug": "quonext"
+  },
+  {
+    "id": 98,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/en/",
+    "name": "EN",
+    "slug": "en"
+  },
+  {
+    "id": 99,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/master-var/",
+    "name": "Master VAR",
+    "slug": "master-var"
+  },
+  {
+    "id": 100,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/elearning/",
+    "name": "eLearning",
+    "slug": "elearning"
+  },
+  {
+    "id": 101,
+    "count": 7,
+    "description": "",
+    "link": "https://powertips.es/tag/azure/",
+    "name": "Azure",
+    "slug": "azure"
+  },
+  {
+    "id": 102,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/licencia/",
+    "name": "Licencia",
+    "slug": "licencia"
+  },
+  {
+    "id": 103,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/demo/",
+    "name": "Demo",
+    "slug": "demo"
+  },
+  {
+    "id": 104,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/lanzamiento/",
+    "name": "Lanzamiento",
+    "slug": "lanzamiento"
+  },
+  {
+    "id": 105,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/scm/",
+    "name": "SCM",
+    "slug": "scm"
+  },
+  {
+    "id": 106,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/gestion-de-cadena-de-suministro/",
+    "name": "Gestión de Cadena de Suministro",
+    "slug": "gestion-de-cadena-de-suministro"
+  },
+  {
+    "id": 107,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/inventario/",
+    "name": "Inventario",
+    "slug": "inventario"
+  },
+  {
+    "id": 108,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/ensamblado/",
+    "name": "Ensamblado",
+    "slug": "ensamblado"
+  },
+  {
+    "id": 109,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/diarios-generales/",
+    "name": "Diarios generales",
+    "slug": "diarios-generales"
+  },
+  {
+    "id": 110,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/contabilidad/",
+    "name": "Contabilidad",
+    "slug": "contabilidad"
+  },
+  {
+    "id": 111,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/gestion-financiera/",
+    "name": "Gestión Financiera",
+    "slug": "gestion-financiera"
+  },
+  {
+    "id": 112,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/bug/",
+    "name": "Bug",
+    "slug": "bug"
+  },
+  {
+    "id": 113,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/personalizacion/",
+    "name": "Personalización",
+    "slug": "personalizacion"
+  },
+  {
+    "id": 114,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/zetadocs-express/",
+    "name": "Zetadocs Express",
+    "slug": "zetadocs-express"
+  },
+  {
+    "id": 115,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/equisys/",
+    "name": "Equisys",
+    "slug": "equisys"
+  },
+  {
+    "id": 116,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/zetadocs/",
+    "name": "Zetadocs",
+    "slug": "zetadocs"
+  },
+  {
+    "id": 117,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/gestion-documental/",
+    "name": "Gestión Documental",
+    "slug": "gestion-documental"
+  },
+  {
+    "id": 118,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/brep/",
+    "name": "BREP",
+    "slug": "brep"
+  },
+  {
+    "id": 119,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/jet-reports/",
+    "name": "Jet Reports",
+    "slug": "jet-reports"
+  },
+  {
+    "id": 120,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/reporting/",
+    "name": "Reporting",
+    "slug": "reporting"
+  },
+  {
+    "id": 121,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/informes/",
+    "name": "Informes",
+    "slug": "informes"
+  },
+  {
+    "id": 122,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/business-intelligence/",
+    "name": "Business Intelligence",
+    "slug": "business-intelligence"
+  },
+  {
+    "id": 123,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/bi/",
+    "name": "BI",
+    "slug": "bi"
+  },
+  {
+    "id": 124,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/costes/",
+    "name": "Costes",
+    "slug": "costes"
+  },
+  {
+    "id": 126,
+    "count": 60,
+    "description": "",
+    "link": "https://powertips.es/tag/business-central/",
+    "name": "Business Central",
+    "slug": "business-central"
+  },
+  {
+    "id": 128,
+    "count": 114,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-teams/",
+    "name": "Microsoft Teams",
+    "slug": "microsoft-teams"
+  },
+  {
+    "id": 129,
+    "count": 67,
+    "description": "",
+    "link": "https://powertips.es/tag/teams/",
+    "name": "Teams",
+    "slug": "teams"
+  },
+  {
+    "id": 130,
+    "count": 124,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-365/",
+    "name": "Microsoft 365",
+    "slug": "microsoft-365"
+  },
+  {
+    "id": 131,
+    "count": 10,
+    "description": "",
+    "link": "https://powertips.es/tag/linkedin-learning/",
+    "name": "LinkedIn Learning",
+    "slug": "linkedin-learning"
+  },
+  {
+    "id": 148,
+    "count": 16,
+    "description": "",
+    "link": "https://powertips.es/tag/power-automate/",
+    "name": "Power Automate",
+    "slug": "power-automate"
+  },
+  {
+    "id": 149,
+    "count": 19,
+    "description": "",
+    "link": "https://powertips.es/tag/power-platform/",
+    "name": "Power Platform",
+    "slug": "power-platform"
+  },
+  {
+    "id": 150,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-power-platform/",
+    "name": "Microsoft Power Platform",
+    "slug": "microsoft-power-platform"
+  },
+  {
+    "id": 151,
+    "count": 5,
+    "description": "",
+    "link": "https://powertips.es/tag/cds/",
+    "name": "CDS",
+    "slug": "cds"
+  },
+  {
+    "id": 152,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/common-data-service/",
+    "name": "Common Data Service",
+    "slug": "common-data-service"
+  },
+  {
+    "id": 153,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/dataflex-pro/",
+    "name": "Dataflex Pro",
+    "slug": "dataflex-pro"
+  },
+  {
+    "id": 154,
+    "count": 5,
+    "description": "",
+    "link": "https://powertips.es/tag/power-apps/",
+    "name": "Power Apps",
+    "slug": "power-apps"
+  },
+  {
+    "id": 155,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/powerapps/",
+    "name": "PowerApps",
+    "slug": "powerapps"
+  },
+  {
+    "id": 158,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/devops/",
+    "name": "DevOps",
+    "slug": "devops"
+  },
+  {
+    "id": 159,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/docker/",
+    "name": "Docker",
+    "slug": "docker"
+  },
+  {
+    "id": 160,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/microservicios/",
+    "name": "microservicios",
+    "slug": "microservicios"
+  },
+  {
+    "id": 161,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/tag/evolucion/",
+    "name": "evolucion",
+    "slug": "evolucion"
+  },
+  {
+    "id": 162,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/aci/",
+    "name": "ACI",
+    "slug": "aci"
+  },
+  {
+    "id": 163,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/azure-service-fabric/",
+    "name": "Azure Service Fabric",
+    "slug": "azure-service-fabric"
+  },
+  {
+    "id": 164,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/tag/power-virtual-agenta/",
+    "name": "Power Virtual Agenta",
+    "slug": "power-virtual-agenta"
+  },
+  {
+    "id": 165,
+    "count": 5,
+    "description": "",
+    "link": "https://powertips.es/tag/power-virtual-agents/",
+    "name": "Power Virtual Agents",
+    "slug": "power-virtual-agents"
+  },
+  {
+    "id": 166,
+    "count": 4,
+    "description": "",
+    "link": "https://powertips.es/tag/pva/",
+    "name": "PVA",
+    "slug": "pva"
+  },
+  {
+    "id": 167,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/integracion/",
+    "name": "Integración",
+    "slug": "integracion"
+  },
+  {
+    "id": 168,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/windows-server-2019/",
+    "name": "Windows Server 2019",
+    "slug": "windows-server-2019"
+  },
+  {
+    "id": 169,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/windows-10/",
+    "name": "Windows 10",
+    "slug": "windows-10"
+  },
+  {
+    "id": 170,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/virtualizacion/",
+    "name": "Virtualización",
+    "slug": "virtualizacion"
+  },
+  {
+    "id": 172,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/dynamics-365-talent/",
+    "name": "Dynamics 365 Talent",
+    "slug": "dynamics-365-talent"
+  },
+  {
+    "id": 173,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/dynamics-365-human-resources/",
+    "name": "Dynamics 365 Human Resources",
+    "slug": "dynamics-365-human-resources"
+  },
+  {
+    "id": 174,
+    "count": 10,
+    "description": "",
+    "link": "https://powertips.es/tag/formacion/",
+    "name": "Formación",
+    "slug": "formacion"
+  },
+  {
+    "id": 175,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/almacenamiento/",
+    "name": "Almacenamiento",
+    "slug": "almacenamiento"
+  },
+  {
+    "id": 176,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/sharepoint/",
+    "name": "Sharepoint",
+    "slug": "sharepoint"
+  },
+  {
+    "id": 177,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/onedrive/",
+    "name": "OneDrive",
+    "slug": "onedrive"
+  },
+  {
+    "id": 178,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/dudas/",
+    "name": "Dudas",
+    "slug": "dudas"
+  },
+  {
+    "id": 179,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/certificacion/",
+    "name": "Certificación",
+    "slug": "certificacion"
+  },
+  {
+    "id": 180,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/mb-800/",
+    "name": "MB-800",
+    "slug": "mb-800"
+  },
+  {
+    "id": 181,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/bots/",
+    "name": "Bots",
+    "slug": "bots"
+  },
+  {
+    "id": 182,
+    "count": 17,
+    "description": "",
+    "link": "https://powertips.es/tag/msdyn365bc/",
+    "name": "MSDyn365BC",
+    "slug": "msdyn365bc"
+  },
+  {
+    "id": 184,
+    "count": 16,
+    "description": "",
+    "link": "https://powertips.es/tag/bc/",
+    "name": "BC",
+    "slug": "bc"
+  },
+  {
+    "id": 186,
+    "count": 4,
+    "description": "",
+    "link": "https://powertips.es/tag/eventos/",
+    "name": "Eventos",
+    "slug": "eventos"
+  },
+  {
+    "id": 187,
+    "count": 19,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-dynamics-365-business-central/",
+    "name": "Microsoft Dynamics 365 Business Central",
+    "slug": "microsoft-dynamics-365-business-central"
+  },
+  {
+    "id": 188,
+    "count": 21,
+    "description": "",
+    "link": "https://powertips.es/tag/trucos/",
+    "name": "Trucos",
+    "slug": "trucos"
+  },
+  {
+    "id": 189,
+    "count": 7,
+    "description": "",
+    "link": "https://powertips.es/tag/tips/",
+    "name": "Tips",
+    "slug": "tips"
+  },
+  {
+    "id": 192,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/wvd/",
+    "name": "WVD",
+    "slug": "wvd"
+  },
+  {
+    "id": 193,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/windows-virtual-desktop/",
+    "name": "Windows Virtual Desktop",
+    "slug": "windows-virtual-desktop"
+  },
+  {
+    "id": 194,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-azure/",
+    "name": "Microsoft Azure",
+    "slug": "microsoft-azure"
+  },
+  {
+    "id": 195,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/vdi/",
+    "name": "VDI",
+    "slug": "vdi"
+  },
+  {
+    "id": 196,
+    "count": 7,
+    "description": "",
+    "link": "https://powertips.es/tag/office-365/",
+    "name": "Office 365",
+    "slug": "office-365"
+  },
+  {
+    "id": 199,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/tag/truc/",
+    "name": "Truc",
+    "slug": "truc"
+  },
+  {
+    "id": 201,
+    "count": 16,
+    "description": "",
+    "link": "https://powertips.es/tag/administracion/",
+    "name": "Administración",
+    "slug": "administracion"
+  },
+  {
+    "id": 202,
+    "count": 8,
+    "description": "",
+    "link": "https://powertips.es/tag/exchange/",
+    "name": "Exchange",
+    "slug": "exchange"
+  },
+  {
+    "id": 203,
+    "count": 6,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-exchange/",
+    "name": "Microsoft Exchange",
+    "slug": "microsoft-exchange"
+  },
+  {
+    "id": 204,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/tag/windows-server/",
+    "name": "Windows Server",
+    "slug": "windows-server"
+  },
+  {
+    "id": 205,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/tag/winsrv2012r2/",
+    "name": "WinSrv2012R2",
+    "slug": "winsrv2012r2"
+  },
+  {
+    "id": 206,
+    "count": 7,
+    "description": "",
+    "link": "https://powertips.es/tag/sysadmin/",
+    "name": "SysAdmin",
+    "slug": "sysadmin"
+  },
+  {
+    "id": 207,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/tag/it-pro/",
+    "name": "IT Pro",
+    "slug": "it-pro"
+  },
+  {
+    "id": 209,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-lists/",
+    "name": "Microsoft Lists",
+    "slug": "microsoft-lists"
+  },
+  {
+    "id": 210,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/lists/",
+    "name": "Lists",
+    "slug": "lists"
+  },
+  {
+    "id": 211,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/migracion/",
+    "name": "Migración",
+    "slug": "migracion"
+  },
+  {
+    "id": 212,
+    "count": 4,
+    "description": "",
+    "link": "https://powertips.es/tag/dynamics-nav/",
+    "name": "Dynamics NAV",
+    "slug": "dynamics-nav"
+  },
+  {
+    "id": 213,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/flow/",
+    "name": "Flow",
+    "slug": "flow"
+  },
+  {
+    "id": 214,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/tag/power-au/",
+    "name": "Power Au",
+    "slug": "power-au"
+  },
+  {
+    "id": 215,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/rgpd/",
+    "name": "RGPD",
+    "slug": "rgpd"
+  },
+  {
+    "id": 216,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/gdpr/",
+    "name": "GDPR",
+    "slug": "gdpr"
+  },
+  {
+    "id": 217,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/compliance/",
+    "name": "Compliance",
+    "slug": "compliance"
+  },
+  {
+    "id": 219,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/tag/upgrade/",
+    "name": "Upgrade",
+    "slug": "upgrade"
+  },
+  {
+    "id": 220,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/downgrade/",
+    "name": "Downgrade",
+    "slug": "downgrade"
+  },
+  {
+    "id": 226,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/preview/",
+    "name": "Preview",
+    "slug": "preview"
+  },
+  {
+    "id": 227,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/aad/",
+    "name": "AAD",
+    "slug": "aad"
+  },
+  {
+    "id": 228,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/azure-ad/",
+    "name": "Azure AD",
+    "slug": "azure-ad"
+  },
+  {
+    "id": 229,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/autenticacion/",
+    "name": "Autenticación",
+    "slug": "autenticacion"
+  },
+  {
+    "id": 230,
+    "count": 4,
+    "description": "",
+    "link": "https://powertips.es/tag/seguridad/",
+    "name": "Seguridad",
+    "slug": "seguridad"
+  },
+  {
+    "id": 231,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/mfa/",
+    "name": "MFA",
+    "slug": "mfa"
+  },
+  {
+    "id": 232,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/multifactor/",
+    "name": "Multifactor",
+    "slug": "multifactor"
+  },
+  {
+    "id": 233,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/project-oakdale/",
+    "name": "Project Oakdale",
+    "slug": "project-oakdale"
+  },
+  {
+    "id": 234,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/oakdale/",
+    "name": "Oakdale",
+    "slug": "oakdale"
+  },
+  {
+    "id": 235,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/ignite2020/",
+    "name": "Ignite2020",
+    "slug": "ignite2020"
+  },
+  {
+    "id": 236,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/cds-for-teams/",
+    "name": "CDS for Teams",
+    "slug": "cds-for-teams"
+  },
+  {
+    "id": 237,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-te/",
+    "name": "Microsoft Te",
+    "slug": "microsoft-te"
+  },
+  {
+    "id": 238,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/plantillas/",
+    "name": "Plantillas",
+    "slug": "plantillas"
+  },
+  {
+    "id": 239,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/templates/",
+    "name": "Templates",
+    "slug": "templates"
+  },
+  {
+    "id": 240,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/virtual-entities/",
+    "name": "Virtual Entities",
+    "slug": "virtual-entities"
+  },
+  {
+    "id": 241,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/entidades-virtuales/",
+    "name": "Entidades Virtuales",
+    "slug": "entidades-virtuales"
+  },
+  {
+    "id": 242,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/tag/powerbi-power-bi/",
+    "name": "PowerBI Power BI",
+    "slug": "powerbi-power-bi"
+  },
+  {
+    "id": 243,
+    "count": 4,
+    "description": "",
+    "link": "https://powertips.es/tag/power-bi/",
+    "name": "Power BI",
+    "slug": "power-bi"
+  },
+  {
+    "id": 244,
+    "count": 11,
+    "description": "",
+    "link": "https://powertips.es/tag/meetup/",
+    "name": "Meetup",
+    "slug": "meetup"
+  },
+  {
+    "id": 246,
+    "count": 5,
+    "description": "",
+    "link": "https://powertips.es/tag/customer-service/",
+    "name": "Customer Service",
+    "slug": "customer-service"
+  },
+  {
+    "id": 247,
+    "count": 6,
+    "description": "",
+    "link": "https://powertips.es/tag/omnichannel/",
+    "name": "Omnichannel",
+    "slug": "omnichannel"
+  },
+  {
+    "id": 248,
+    "count": 7,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-dynamics-365-customer-service/",
+    "name": "Microsoft Dynamics 365 Customer Service",
+    "slug": "microsoft-dynamics-365-customer-service"
+  },
+  {
+    "id": 249,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/onmicanal/",
+    "name": "Onmicanal",
+    "slug": "onmicanal"
+  },
+  {
+    "id": 250,
+    "count": 4,
+    "description": "",
+    "link": "https://powertips.es/tag/servicio-al-cliente/",
+    "name": "Servicio al cliente",
+    "slug": "servicio-al-cliente"
+  },
+  {
+    "id": 251,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/vacd/",
+    "name": "VACD",
+    "slug": "vacd"
+  },
+  {
+    "id": 252,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/virtual-azure-community-day/",
+    "name": "Virtual Azure Community Day",
+    "slug": "virtual-azure-community-day"
+  },
+  {
+    "id": 253,
+    "count": 5,
+    "description": "",
+    "link": "https://powertips.es/tag/comunidad/",
+    "name": "Comunidad",
+    "slug": "comunidad"
+  },
+  {
+    "id": 254,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/privacidad/",
+    "name": "Privacidad",
+    "slug": "privacidad"
+  },
+  {
+    "id": 255,
+    "count": 4,
+    "description": "",
+    "link": "https://powertips.es/tag/omnicanal/",
+    "name": "Omnicanal",
+    "slug": "omnicanal"
+  },
+  {
+    "id": 256,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/telegram/",
+    "name": "Telegram",
+    "slug": "telegram"
+  },
+  {
+    "id": 257,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/dataverse/",
+    "name": "Dataverse",
+    "slug": "dataverse"
+  },
+  {
+    "id": 258,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/modern-workplace/",
+    "name": "Modern Workplace",
+    "slug": "modern-workplace"
+  },
+  {
+    "id": 259,
+    "count": 7,
+    "description": "",
+    "link": "https://powertips.es/tag/modern-work/",
+    "name": "Modern Work",
+    "slug": "modern-work"
+  },
+  {
+    "id": 260,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/power-query/",
+    "name": "Power Query",
+    "slug": "power-query"
+  },
+  {
+    "id": 261,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/dataflow/",
+    "name": "Dataflow",
+    "slug": "dataflow"
+  },
+  {
+    "id": 262,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/tasks/",
+    "name": "Tasks",
+    "slug": "tasks"
+  },
+  {
+    "id": 263,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/tareas/",
+    "name": "Tareas",
+    "slug": "tareas"
+  },
+  {
+    "id": 264,
+    "count": 4,
+    "description": "",
+    "link": "https://powertips.es/tag/planner/",
+    "name": "Planner",
+    "slug": "planner"
+  },
+  {
+    "id": 265,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/todo/",
+    "name": "ToDo",
+    "slug": "todo"
+  },
+  {
+    "id": 266,
+    "count": 6,
+    "description": "",
+    "link": "https://powertips.es/tag/productividad/",
+    "name": "Productividad",
+    "slug": "productividad"
+  },
+  {
+    "id": 267,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/aprobaciones/",
+    "name": "Aprobaciones",
+    "slug": "aprobaciones"
+  },
+  {
+    "id": 269,
+    "count": 7,
+    "description": "",
+    "link": "https://powertips.es/tag/outlook/",
+    "name": "Outlook",
+    "slug": "outlook"
+  },
+  {
+    "id": 271,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/customer-insights/",
+    "name": "Customer Insights",
+    "slug": "customer-insights"
+  },
+  {
+    "id": 272,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-dynamics-365/",
+    "name": "Microsoft Dynamics 365",
+    "slug": "microsoft-dynamics-365"
+  },
+  {
+    "id": 273,
+    "count": 4,
+    "description": "",
+    "link": "https://powertips.es/tag/ai/",
+    "name": "AI",
+    "slug": "ai"
+  },
+  {
+    "id": 274,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/forms/",
+    "name": "Forms",
+    "slug": "forms"
+  },
+  {
+    "id": 275,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/sharepoint-online/",
+    "name": "SharePoint Online",
+    "slug": "sharepoint-online"
+  },
+  {
+    "id": 276,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/buenas-practicas/",
+    "name": "Buenas prácticas",
+    "slug": "buenas-practicas"
+  },
+  {
+    "id": 282,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/excel/",
+    "name": "Excel",
+    "slug": "excel"
+  },
+  {
+    "id": 283,
+    "count": 5,
+    "description": "",
+    "link": "https://powertips.es/tag/productividad-365/",
+    "name": "Productividad 365",
+    "slug": "productividad-365"
+  },
+  {
+    "id": 284,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/gobierno/",
+    "name": "Gobierno",
+    "slug": "gobierno"
+  },
+  {
+    "id": 290,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/secops/",
+    "name": "SecOps",
+    "slug": "secops"
+  },
+  {
+    "id": 292,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/yammer/",
+    "name": "Yammer",
+    "slug": "yammer"
+  },
+  {
+    "id": 293,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-loop/",
+    "name": "Microsoft Loop",
+    "slug": "microsoft-loop"
+  },
+  {
+    "id": 296,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/powerpoint/",
+    "name": "PowerPoint",
+    "slug": "powerpoint"
+  },
+  {
+    "id": 303,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-viva/",
+    "name": "Microsoft Viva",
+    "slug": "microsoft-viva"
+  },
+  {
+    "id": 304,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/ideas-viva/",
+    "name": "Ideas Viva",
+    "slug": "ideas-viva"
+  },
+  {
+    "id": 305,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/insights/",
+    "name": "Insights",
+    "slug": "insights"
+  },
+  {
+    "id": 307,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/defender/",
+    "name": "Defender",
+    "slug": "defender"
+  },
+  {
+    "id": 309,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/graph-api/",
+    "name": "Graph API",
+    "slug": "graph-api"
+  },
+  {
+    "id": 1368,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/ignite-2022/",
+    "name": "Ignite 2022",
+    "slug": "ignite-2022"
+  },
+  {
+    "id": 1370,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-entra/",
+    "name": "Microsoft Entra",
+    "slug": "microsoft-entra"
+  },
+  {
+    "id": 1372,
+    "count": 4,
+    "description": "",
+    "link": "https://powertips.es/tag/openai/",
+    "name": "OpenAI",
+    "slug": "openai"
+  },
+  {
+    "id": 1373,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/ia/",
+    "name": "IA",
+    "slug": "ia"
+  },
+  {
+    "id": 1374,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/chatgpt/",
+    "name": "ChatGPT",
+    "slug": "chatgpt"
+  },
+  {
+    "id": 1375,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/metaverso/",
+    "name": "Metaverso",
+    "slug": "metaverso"
+  },
+  {
+    "id": 1376,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-mesh/",
+    "name": "Microsoft Mesh",
+    "slug": "microsoft-mesh"
+  },
+  {
+    "id": 7109,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/tag/bing/",
+    "name": "Bing",
+    "slug": "bing"
+  },
+  {
+    "id": 9829,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/microsoft-fabric/",
+    "name": "MIcrosoft Fabric",
+    "slug": "microsoft-fabric"
+  },
+  {
+    "id": 9830,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/tag/copilot/",
+    "name": "Copilot",
+    "slug": "copilot"
+  },
+  {
+    "id": 9831,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/gen-ai/",
+    "name": "Gen AI",
+    "slug": "gen-ai"
+  },
+  {
+    "id": 9833,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/azure-openai/",
+    "name": "Azure OpenAI",
+    "slug": "azure-openai"
+  },
+  {
+    "id": 9834,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/mlops/",
+    "name": "MLOps",
+    "slug": "mlops"
+  },
+  {
+    "id": 9835,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/machine-learning/",
+    "name": "Machine Learning",
+    "slug": "machine-learning"
+  },
+  {
+    "id": 9836,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/ai-builder/",
+    "name": "AI Builder",
+    "slug": "ai-builder"
+  },
+  {
+    "id": 9840,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/tag/bing-chat-enterprise/",
+    "name": "Bing Chat Enterprise",
+    "slug": "bing-chat-enterprise"
+  },
+  {
+    "id": 9841,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/bing-chat/",
+    "name": "Bing Chat",
+    "slug": "bing-chat"
+  },
+  {
+    "id": 9842,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/dalle/",
+    "name": "Dalle",
+    "slug": "dalle"
+  },
+  {
+    "id": 9843,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/inteligencia-artificial/",
+    "name": "Inteligencia Artificial",
+    "slug": "inteligencia-artificial"
+  },
+  {
+    "id": 9844,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/tag/project/",
+    "name": "Project",
+    "slug": "project"
+  }
+]

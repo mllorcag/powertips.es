@@ -1,0 +1,407 @@
+[
+  {
+    "id": 2,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/category/coach/",
+    "name": "Coach",
+    "slug": "coach",
+    "parent": 0
+  },
+  {
+    "id": 21,
+    "count": 50,
+    "description": "Microsoft Dynamics 365",
+    "link": "https://powertips.es/category/dynamics365/",
+    "name": "Dynamics 365",
+    "slug": "dynamics365",
+    "parent": 0
+  },
+  {
+    "id": 22,
+    "count": 126,
+    "description": "Microsoft Dynamics 365 Business Central",
+    "link": "https://powertips.es/category/dynamics365/business-central/",
+    "name": "Business Central",
+    "slug": "business-central",
+    "parent": 21
+  },
+  {
+    "id": 24,
+    "count": 29,
+    "description": "Microsoft Power Platform",
+    "link": "https://powertips.es/category/power-platform/",
+    "name": "Power Platform",
+    "slug": "power-platform",
+    "parent": 0
+  },
+  {
+    "id": 25,
+    "count": 5,
+    "description": "Power BI",
+    "link": "https://powertips.es/category/power-platform/powerbi/",
+    "name": "Power BI",
+    "slug": "powerbi",
+    "parent": 24
+  },
+  {
+    "id": 26,
+    "count": 8,
+    "description": "Microsoft Power Apps",
+    "link": "https://powertips.es/category/power-platform/power-apps/",
+    "name": "Power Apps",
+    "slug": "power-apps",
+    "parent": 24
+  },
+  {
+    "id": 27,
+    "count": 16,
+    "description": "Microsoft Power Automate",
+    "link": "https://powertips.es/category/power-platform/power-automate/",
+    "name": "Power Automate",
+    "slug": "power-automate",
+    "parent": 24
+  },
+  {
+    "id": 28,
+    "count": 7,
+    "description": "Microsoft Power Virtual Agents",
+    "link": "https://powertips.es/category/power-platform/pva/",
+    "name": "Power Virtual Agents",
+    "slug": "pva",
+    "parent": 24
+  },
+  {
+    "id": 29,
+    "count": 22,
+    "description": "Temas sobre Administración de Sistemas, DevOps, Windows Server, Cloud, etc.",
+    "link": "https://powertips.es/category/itpro/",
+    "name": "IT Pro",
+    "slug": "itpro",
+    "parent": 0
+  },
+  {
+    "id": 30,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/offtopic/",
+    "name": "Offtopic",
+    "slug": "offtopic",
+    "parent": 0
+  },
+  {
+    "id": 31,
+    "count": 9,
+    "description": "Microsoft Dataverse (Common Data Service)",
+    "link": "https://powertips.es/category/power-platform/dataverse/",
+    "name": "Dataverse (aka CDS)",
+    "slug": "dataverse",
+    "parent": 24
+  },
+  {
+    "id": 32,
+    "count": 138,
+    "description": "Microsoft 365",
+    "link": "https://powertips.es/category/microsoft365/",
+    "name": "Microsoft 365",
+    "slug": "microsoft365",
+    "parent": 0
+  },
+  {
+    "id": 33,
+    "count": 6,
+    "description": "Microsoft SharePoint",
+    "link": "https://powertips.es/category/microsoft365/sharepoint/",
+    "name": "SharePoint",
+    "slug": "sharepoint",
+    "parent": 32
+  },
+  {
+    "id": 34,
+    "count": 10,
+    "description": "Microsoft Exchange",
+    "link": "https://powertips.es/category/microsoft365/exchange/",
+    "name": "Exchange",
+    "slug": "exchange",
+    "parent": 32
+  },
+  {
+    "id": 35,
+    "count": 113,
+    "description": "Microsoft Teams",
+    "link": "https://powertips.es/category/microsoft365/teams/",
+    "name": "Teams",
+    "slug": "teams",
+    "parent": 32
+  },
+  {
+    "id": 127,
+    "count": 17,
+    "description": "Cursos, seminarios y otros ",
+    "link": "https://powertips.es/category/formacion/",
+    "name": "Formación",
+    "slug": "formacion",
+    "parent": 0
+  },
+  {
+    "id": 132,
+    "count": 15,
+    "description": "Cursos de LinkedIn Learning",
+    "link": "https://powertips.es/category/formacion/linkedin-learning/",
+    "name": "LinkedIn Learning",
+    "slug": "linkedin-learning",
+    "parent": 127
+  },
+  {
+    "id": 156,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/category/itpro/devops/",
+    "name": "DevOps",
+    "slug": "devops",
+    "parent": 29
+  },
+  {
+    "id": 157,
+    "count": 2,
+    "description": "Contenedores Docker",
+    "link": "https://powertips.es/category/itpro/devops/docker/",
+    "name": "Docker",
+    "slug": "docker",
+    "parent": 156
+  },
+  {
+    "id": 171,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/dynamics365/human-resources/",
+    "name": "Human Resources",
+    "slug": "human-resources",
+    "parent": 21
+  },
+  {
+    "id": 185,
+    "count": 16,
+    "description": "",
+    "link": "https://powertips.es/category/formacion/eventos/",
+    "name": "Eventos",
+    "slug": "eventos",
+    "parent": 127
+  },
+  {
+    "id": 190,
+    "count": 8,
+    "description": "",
+    "link": "https://powertips.es/category/azure/",
+    "name": "Azure",
+    "slug": "azure",
+    "parent": 0
+  },
+  {
+    "id": 191,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/azure/windows-virtual-desktop/",
+    "name": "Windows Virtual Desktop",
+    "slug": "windows-virtual-desktop",
+    "parent": 190
+  },
+  {
+    "id": 198,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/itpro/windows-server/",
+    "name": "Windows Server",
+    "slug": "windows-server",
+    "parent": 29
+  },
+  {
+    "id": 200,
+    "count": 22,
+    "description": "",
+    "link": "https://powertips.es/category/itpro/administracion/",
+    "name": "Administración",
+    "slug": "administracion",
+    "parent": 29
+  },
+  {
+    "id": 208,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/category/microsoft365/lists/",
+    "name": "Lists",
+    "slug": "lists",
+    "parent": 32
+  },
+  {
+    "id": 245,
+    "count": 7,
+    "description": "",
+    "link": "https://powertips.es/category/dynamics365/customer-service/",
+    "name": "Customer Service",
+    "slug": "customer-service",
+    "parent": 21
+  },
+  {
+    "id": 268,
+    "count": 6,
+    "description": "",
+    "link": "https://powertips.es/category/microsoft365/outlook/",
+    "name": "Outlook",
+    "slug": "outlook",
+    "parent": 32
+  },
+  {
+    "id": 270,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/dynamics365/customer-insights/",
+    "name": "Customer Insights",
+    "slug": "customer-insights",
+    "parent": 21
+  },
+  {
+    "id": 280,
+    "count": 4,
+    "description": "",
+    "link": "https://powertips.es/category/microsoft365/forms/",
+    "name": "Forms",
+    "slug": "forms",
+    "parent": 32
+  },
+  {
+    "id": 281,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/category/microsoft365/excel/",
+    "name": "Excel",
+    "slug": "excel",
+    "parent": 32
+  },
+  {
+    "id": 291,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/category/itpro/seguridad/",
+    "name": "Seguridad",
+    "slug": "seguridad",
+    "parent": 29
+  },
+  {
+    "id": 294,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/microsoft365/microsoft-loop/",
+    "name": "Microsoft Loop",
+    "slug": "microsoft-loop",
+    "parent": 32
+  },
+  {
+    "id": 295,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/microsoft365/powerpoint/",
+    "name": "PowerPoint",
+    "slug": "powerpoint",
+    "parent": 32
+  },
+  {
+    "id": 300,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/dynamics365/finance/",
+    "name": "Finance",
+    "slug": "finance",
+    "parent": 21
+  },
+  {
+    "id": 301,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/dynamics365/scm/",
+    "name": "SCM",
+    "slug": "scm",
+    "parent": 21
+  },
+  {
+    "id": 302,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/microsoft365/viva/",
+    "name": "Viva",
+    "slug": "viva",
+    "parent": 32
+  },
+  {
+    "id": 306,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/microsoft365/defender/",
+    "name": "Defender",
+    "slug": "defender",
+    "parent": 32
+  },
+  {
+    "id": 308,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/dynamics365/sales/",
+    "name": "Sales",
+    "slug": "sales",
+    "parent": 21
+  },
+  {
+    "id": 310,
+    "count": 0,
+    "description": "",
+    "link": "https://powertips.es/category/microsoft365/graph/",
+    "name": "MS Graph",
+    "slug": "graph",
+    "parent": 32
+  },
+  {
+    "id": 1369,
+    "count": 2,
+    "description": "",
+    "link": "https://powertips.es/category/microsoft365/planner/",
+    "name": "Planner",
+    "slug": "planner",
+    "parent": 32
+  },
+  {
+    "id": 1371,
+    "count": 3,
+    "description": "",
+    "link": "https://powertips.es/category/inteligencia-artificial/",
+    "name": "Inteligencia Artificial",
+    "slug": "inteligencia-artificial",
+    "parent": 0
+  },
+  {
+    "id": 7108,
+    "count": 6,
+    "description": "",
+    "link": "https://powertips.es/category/ai/",
+    "name": "AI",
+    "slug": "ai",
+    "parent": 0
+  },
+  {
+    "id": 9832,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/power-platform/ai-builder/",
+    "name": "AI Builder",
+    "slug": "ai-builder",
+    "parent": 24
+  },
+  {
+    "id": 9839,
+    "count": 1,
+    "description": "",
+    "link": "https://powertips.es/category/microsoft365/loop/",
+    "name": "Loop",
+    "slug": "loop",
+    "parent": 32
+  }
+]
